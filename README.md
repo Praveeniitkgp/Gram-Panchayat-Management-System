@@ -1,2 +1,3 @@
 # Gram-Panchayat-Management-System
-A web-based Gram Panchayat Management System for managing village operations, citizen services, and government reporting, built with a backend database and dynamic web interface
+It aims to manage the operations of a Gram Panchayat through an integrated system involving a backend database, server-side scripting, and a user-friendly web interface.
+The system allows multiple types of users — System Administrators, Panchayat Employees, Citizens, and Government Monitors — to interact with the platform according to their roles.
